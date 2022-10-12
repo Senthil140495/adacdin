@@ -13,7 +13,7 @@ public class College extends University {
 	}
 	public College(int id) {
 		super(65);
-		System.out.println("int constructor");
+		System.out.println("ragavan");
 	}
 public static void main(String[] args) {
 	
